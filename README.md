@@ -11,11 +11,7 @@ The project combines real TurtleBot experiments with PyBullet simulation. It exp
 </p>
 
 <p align="center">
-  <a href="assests/imgs/examplesolution.mp4">
-    <img src="assests/imgs/examplemap.jpeg" alt="Click to watch the demo video" width="850">
-  </a>
-  <br>
-  <em>Click the image to watch the demo video</em>
+  <img src="assests/videos/examplesolution.gif" alt="Simulation solution animation" width="850">
 </p>
 
 ## What This Project Does
