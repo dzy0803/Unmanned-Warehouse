@@ -82,7 +82,7 @@ The ROS workspace in `turtlebot3_burger_auto_navigation/` contains launch files 
 ### Physical Arena
 
 <p align="center">
-  <video src="assests/real-arena.mp4" width="850" autoplay loop muted playsinline></video>
+  <img src="assests/real-arena.gif" alt="Physical arena demo animation" width="850">
 </p>
 
 ## Installation
